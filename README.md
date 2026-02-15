@@ -1,10 +1,10 @@
-🌶️ Sambal Bakar Sales Monitoring System
+🌶️ Sales Monitoring System
 Aplikasi monitoring penjualan harian yang dirancang khusus untuk bisnis kuliner (Sambal Bakar). Dibangun dengan TALL Stack (Tailwind, Alpine.js, Laravel, Livewire) untuk memberikan pengalaman pengguna yang responsif, interaktif, dan real-time.
 
 🚀 Fitur Utama
 Interactive Dashboard: Visualisasi tren penjualan bulanan menggunakan Chart.js yang terintegrasi langsung dengan database.
 
-Advanced DataTable: Fitur pencarian (real-time search), pengurutan (sorting), dan paginasi data tanpa reload halaman menggunakan Livewire 3.
+Advanced DataTable: Fitur pencarian (real-time search), pengurutan (sorting), dan paginasi data tanpa reload halaman menggunakan Livewire 4.
 
 Full CRUD Operations: Manajemen data transaksi penjualan dengan antarmuka modal yang modern.
 
@@ -13,9 +13,9 @@ Mobile Responsive: Tampilan dioptimasi untuk berbagai perangkat menggunakan Tail
 Production Ready: Konfigurasi otomatis HTTPS dan optimasi performa untuk deployment di cloud.
 
 🛠️ Tech Stack
-Framework: Laravel 11 (PHP 8.2+).
+Framework: Laravel 12 (PHP 8.2+).
 
-Frontend: Livewire 3 & Tailwind CSS.
+Frontend: Livewire 4 & Tailwind CSS.
 
 Database: MySQL.
 
